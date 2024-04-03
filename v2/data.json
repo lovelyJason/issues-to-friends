@@ -1,0 +1,11 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "测试博客",
+      "url": "http://sanshao.top",
+      "avatar": "https://cdn.qdovo.com/img/timg.jpeg",
+      "description": "我的测试博客"
+    }
+  ]
+}
