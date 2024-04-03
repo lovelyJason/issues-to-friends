@@ -1,3 +1,18 @@
+name: Empty GitHub Action  
+  
+on:  
+  push:  
+    branches: [ main ]  
+  pull_request:  
+    branches: [ main ]  
+  
+jobs:  
+  build:  
+    runs-on: ubuntu-latest  
+    steps:  
+      # 这里没有具体的步骤，所以是一个空的 Action
+
+
 # name: Checker
 
 # on:
