@@ -10,7 +10,9 @@ jobs:
   build:  
     runs-on: ubuntu-latest  
     steps:  
-      # 这里没有具体的步骤，所以是一个空的 Action
+      - name: Placeholder Step  
+        # 这是一个占位符步骤，它不会执行任何操作  
+        run: echo "This is a placeholder step and does nothing."
 
 
 # name: Checker
